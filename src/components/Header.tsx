@@ -13,6 +13,7 @@ const Header: React.FC<HeaderProps> = () => {
           </Flex>
           <Flex>Collings And Schutte</Flex>
           <Flex justifyContent="flex-end">Construction Ltd</Flex>
+          <Flex justifyContent="flex-end"><Image src="LBP2.png" w={150}/></Flex>
         </Flex>
       </Flex>
     </>
