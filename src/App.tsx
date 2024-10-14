@@ -155,7 +155,7 @@ function App() {
                 <Spacer h={5} />
                 <Spacer h={5} />
                 {/* Item */}
-                <GridItem colSpan={1}>Interior Bathroom</GridItem>
+                <GridItem colSpan={1}>Interior - Bathroom</GridItem>
                 <GridItem colSpan={2}>
                 
                   <Spacer h={5} />
@@ -173,7 +173,7 @@ function App() {
                 <Spacer h={5} />
                 <Spacer h={5} />
                 {/* Item */}
-                <GridItem colSpan={1}>Interior Bathroom</GridItem>
+                <GridItem colSpan={1}>Interior - Bathroom</GridItem>
                 <GridItem colSpan={2}>
                 Condensation
                   <Spacer h={5} />
@@ -191,7 +191,7 @@ function App() {
                 <Spacer h={5} />
                 <Spacer h={5} />
                 {/* Item */}
-                <GridItem colSpan={1}>Interior Bathroom</GridItem>
+                <GridItem colSpan={1}>Interior - Bathroom</GridItem>
                 <GridItem colSpan={2}>
                 Leaking onto floor when bath used.
                   <Spacer h={5} />
@@ -200,8 +200,8 @@ function App() {
                 <GridItem colSpan={2}>
                 Fix leak from underneath by removing soffit material.
                 </GridItem>
-                <GridItem colSpan={1}>Charge Up
-                A plumber may be required.</GridItem>
+                <GridItem colSpan={1}>Charge Up.
+                A plumber may also be required.</GridItem>
                 {/* Item */}
                 <Spacer h={5} />
                 <Spacer h={5} />
